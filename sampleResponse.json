@@ -1,0 +1,97 @@
+{
+    "status": "ok",
+    "totalResults": 7,
+    "articles": [
+        {
+            "source": {
+                "id": "news24",
+                "name": "News24"
+            },
+            "author": "news24",
+            "title": "FRIDAY BRIEFING | Coalition games: Snakes and ladders",
+            "description": "Coalition politics entered the public lexicon after the 2016 local government elections, when several metros had to be governed by political parties in coalition agreements after parties failed to achieve a majority.",
+            "url": "https://www.news24.com/news24/opinions/fridaybriefing/friday-briefing-coalition-games-snakes-and-ladders-20230810",
+            "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/9041/d32bd07dfe484f5bb600645756df8801.jpg",
+            "publishedAt": "2023-08-11T05:00:19+00:00",
+            "content": "Coalition games: Snakes and ladders\r\nCoalition politics entered the public lexicon after the 2016 local government elections, when several metros had to be governed by political parties in coalition … [+2467 chars]"
+        },
+        {
+            "source": {
+                "id": "cnn",
+                "name": "CNN"
+            },
+            "author": "",
+            "title": "Video: Maggie Haberman on Donald Trump's 'shield' against indictments | CNN Politics",
+            "description": "CNN political analyst and New York Times senior political correspondent Maggie Haberman discusses former President Donald Trump’s likely strategy against the multiple indictments he’s facing.",
+            "url": "https://www.cnn.com/videos/politics/2023/08/11/trump-indictments-strategy-haberman-ac360-vpx.cnn",
+            "urlToImage": "https://media.cnn.com/api/v1/images/stellar/prod/230808122421-03-donald-trump-080423.jpg?c=16x9&q=w_800,c_fill",
+            "publishedAt": "2023-08-11T00:57:48Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "wired",
+                "name": "Wired"
+            },
+            "author": "Wired",
+            "title": "Grimes Wants to Be Less Famous (and Replaced by AI)",
+            "description": "C, better known as Grimes, talks with us on Have a Nice Future about everything from AI-generated music and art to education and politics—and about the idea of “traditional masculinity.”",
+            "url": "https://www.wired.com/story/have-a-nice-future-podcast-17",
+            "urlToImage": "https://media.wired.com/photos/64d2c4ee9a01d944fee36261/191:100/w_1280,c_limit/HANF-grimes.jpg",
+            "publishedAt": "2023-08-09T11:00:00Z",
+            "content": "Gideon: I hear you navigating a kind of, I guess, a broad political space. I hear you talking like someone who is part of both left and right political groupings. You know, you obviouslya lot of the … [+3055 chars]"
+        },
+        {
+            "source": {
+                "id": "newsweek",
+                "name": "Newsweek"
+            },
+            "author": "Mark Davis",
+            "title": "Newsweek",
+            "description": "Newsweek provides in-depth analysis, news and opinion about international issues, technology, business, culture and politics.",
+            "url": "https://www.newsweek.com/",
+            "urlToImage": "https://d.newsweek.com/en/full/2202468/special-presidential-envoy-climate-john-kerry.jpg",
+            "publishedAt": "2023-03-01T12:07:28.8517009Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "the-american-conservative",
+                "name": "The American Conservative"
+            },
+            "author": null,
+            "title": "Politics Archives - The American Conservative",
+            "description": null,
+            "url": "https://www.theamericanconservative.com/category/politics/",
+            "urlToImage": null,
+            "publishedAt": "2022-07-07T21:37:27.3936289Z",
+            "content": null
+        },
+        {
+            "source": {
+                "id": "usa-today",
+                "name": "USA Today"
+            },
+            "author": null,
+            "title": "Daily Briefing",
+            "description": "The day's top stories, from sports to movies to politics to world events.",
+            "url": "https://profile.usatoday.com/newsletters/daily-briefing/",
+            "urlToImage": "https://profile.usatoday.com/newsletters/resources/usat/property/usatoday/newsletter-thumbs/8872UT-E-NLETTER02@2x.jpg",
+            "publishedAt": "2021-08-15T15:35:07+00:00",
+            "content": "The day's top stories, from sports to movies to politics to world events."
+        },
+        {
+            "source": {
+                "id": "the-jerusalem-post",
+                "name": "The Jerusalem Post"
+            },
+            "author": null,
+            "title": "Congresswoman Nita Lowey: I am proud to stand with Israel",
+            "description": "Gantz: Security of Israel is above politics; PA: This is a crime.",
+            "url": "https://www.jpost.com/Arab-Israeli-Conflict/Gantz-Security-of-Israel-is-above-politics-Palestinians-This-is-a-crime-607595",
+            "urlToImage": "https://images.jpost.com/image/upload/f_auto,fl_lossy/t_Article2016_ControlFaceDetect/448812",
+            "publishedAt": "2019-11-13T04:41:00Z",
+            "content": "US Ambassador David M. Friedman said the US stands “with our friend and ally Israel at this critical moment” on social media on Tuesday after roughly 170 rockets were fired on Israel from the Gaza St… [+6160 chars]"
+        }
+    ]
+}
